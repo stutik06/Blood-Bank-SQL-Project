@@ -1,5 +1,5 @@
 # Blood-Bank-SQL-Project
-I developed a **Blood Bank and Donor Management System** using **SQL** and **PHP** to efficiently manage blood donation records, donor details, and inventory. The system streamlines donor registration, tracks blood availability, and generates reports on blood group distribution. It includes features such as **donor search, blood stock management, and request processing**, ensuring seamless operations. This project enhances **data accessibility and accuracy**, making it easier for blood banks to manage their resources effectively.  
+Developed a **Blood Bank and Donor Management System** using **SQL** and **PHP** to efficiently manage blood donation records, donor details, and inventory. The system streamlines donor registration, tracks blood availability, and generates reports on blood group distribution. It includes features such as **donor search, blood stock management, and request processing**, ensuring seamless operations. This project enhances **data accessibility and accuracy**, making it easier for blood banks to manage their resources effectively.  
 
  **GitHub Project Description:**  
  **Blood Bank and Donor Management System (SQL + PHP)**  
